@@ -1,0 +1,1 @@
+Pengalaman menggunakan repo ini adalah membuat folder baru demo-repo lalu di git init dan isinya belajar git dengan nama file readme.md
