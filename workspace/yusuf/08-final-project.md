@@ -1,0 +1,1 @@
+Membuat file mini seperti project-summary , notes , dan timeline untuk menulis ringkasan dan commit n push

@@ -1,0 +1,3 @@
+cara kerja fetch adalah mengambil data dari remote dan disimpan didatabase git lokal tapi tidak mengubah file di local
+cara kerja pull adalah mengambil data dari remote dan menggabungkannya dengan file di local
+cara kerja push adalah mengirim data dari local ke remote

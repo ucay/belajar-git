@@ -1,0 +1,1 @@
+Manfaat commit rapi adalah kita / developer lain dapat melacak perubahan yang terjadi pada repository dengan mudah. Kita juga dapat dengan mudah kembali ke versi sebelumnya jika terjadi kesalahan. Itu adalah menurut saya ketahui
