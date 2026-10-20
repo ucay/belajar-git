@@ -24,3 +24,9 @@ Saya membandingkan perubahan dari kedua branch, menentukan isi akhir yang benar,
 
 ## Catatan Workflow
 Saya mengerjakan latihan pada branch dink2v dan menjaga branch main tetap tidak berubah.
+
+## Simulasi Review Pull Request
+- Tujuan perubahan: melengkapi dokumentasi workflow review.
+- Pemeriksaan: perubahan ditinjau menggunakan git diff.
+- Status: siap untuk simulasi review lokal.
+- Merge hanya dilakukan setelah perubahan diperiksa.
