@@ -1,15 +1,4 @@
 ﻿Catatan Tim Git
-CEKKKKKKKKKKKKKK
-baris kedua dan ketiga dan keempat
-
-ini baris baru untuk rebase conflict
-
-baris baru untuk rebase conflict
-
-yang bawah untuk rebase conflict
-
-keduapuluhduapuluh
-testing tes tes dan testing
-
-keduapuluhduapuluh
-testing tes tes dan testing
+1. Setup repo
+2. Belajar merge dan resolve konflik dari branch A dan B
+3. Review dan merge
