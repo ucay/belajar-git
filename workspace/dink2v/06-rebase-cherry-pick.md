@@ -10,3 +10,6 @@ Cherry-pick menyalin perubahan dari commit tertentu ke branch aktif.
 
 ## Latihan Cherry-pick
 Commit ini dibuat di branch sementara untuk latihan cherry-pick.
+
+## Latihan Stash
+Pekerjaan ini belum selesai dan disimpan sementara.
